@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">StepClassWork2</string>
+    <string name="project_button_random_caption">Random</string>
+    <string name="project_button_sort_caption">Sort</string>
+</resources>
